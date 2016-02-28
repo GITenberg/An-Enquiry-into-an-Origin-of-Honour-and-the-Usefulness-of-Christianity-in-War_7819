@@ -1,0 +1,27 @@
+_repo: An-Enquiry-into-an-Origin-of-Honour-and-the-Usefulness-of-Christianity-in-War_7819
+creator:
+  author:
+    agent_name: Mandeville, Bernard
+    aliases:
+    - Mandeville, B. (Bernard)
+    - De Mandeville, Bernard
+    birthdate: 1670
+    deathdate: 1733
+    gutenberg_agent_id: '2543'
+    url: http://www.gutenberg.org/2009/agents/2543
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_de_Mandeville
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Honor'
+title: An Enquiry into an Origin of Honour; and the Usefulness of Christianity in
+  War
+url: http://www.gutenberg.org/ebooks/7819
